@@ -1,4 +1,4 @@
-const server_baseurl = 'http://67.205.145.74:9000/';
+const server_baseurl = '';
 
 let configs = {};
 
